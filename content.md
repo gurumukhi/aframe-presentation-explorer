@@ -575,8 +575,8 @@ AFRAME.registerComponent('crazy-position', {
 # Questions?  <!-- .element: style="color: #FFF" -->
 
 - Try it out [aframe.io](https://aframe.io)
-- Join us on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
-- Follow us [@aframevr](https://twitter.com/aframevr)
+- Join AFrame on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
+- Twitter : Ram [@ram_gurumukhi](https://twitter.com/ram_gurumukhi) | AFrame [@aframevr](https://twitter.com/aframevr)
 
 <!--Notes
 - Homepage which has examples, documentation, blog
