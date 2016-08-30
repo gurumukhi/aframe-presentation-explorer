@@ -555,9 +555,9 @@ AFRAME.registerComponent('crazy-position', {
 
 ------
 
-<!-- .slide: class="slide__questions" data-background="" style="background-color: rgba(239, 45, 94, 0.9); color: #EEE" -->
+<!-- .slide: class="slide__questions" data-background="" style="" -->
 
-# Thanks !  <!-- .element: style="color: #FFF" -->
+# Thanks !  <!-- .element: style="" -->
 
 - Twitter : Ram | [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
 <br/>
