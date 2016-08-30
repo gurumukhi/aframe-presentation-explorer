@@ -140,6 +140,8 @@ https://w3c.github.io/webvr/
     <i>Mobile Polyfill</i>
   </div>
 </div>
+https://mozvr.com/
+http://vr.chromeexperiments.com/
 
 <!--Notes
 - Firefox + Chrome WebVR 1.0 hits release channels by early 2017
@@ -189,6 +191,34 @@ https://w3c.github.io/webvr/
 - More motivating to experiment and prototype if easier to get started
 -->
 
+------
+
+# A-Frame
+
+<img class="stretch" data-src="media/img/aframe-logo-rendered.png">
+
+A web framework for building virtual reality experiences with HTML
+
+<!--Notes
+- Launched December 2015 by the Mozilla VR team
+- Make it easy for anyone to create VR content
+- Enable web developers
+- Prototype and experiment faster
+- Kickstart WebVR ecosystem
+-->
+
+---
+<!-- .slide: data-transition="concave" -->
+
+```html
+<a-scene></a-scene>
+```
+
+<!--Notes
+- One line of HTML
+- More motivating to experiment and prototype if easier to get started
+-->
+
 ---
 
 ```js
@@ -216,22 +246,6 @@ scene.add(box);
 <!--Notes
 - Creating a box in A-Frame
 - Saves a lot of boilerplate for doing the simplest things
--->
-
-------
-
-# A-Frame
-
-<img class="stretch" data-src="media/img/aframe-logo-rendered.png">
-
-A web framework for building virtual reality experiences with HTML
-
-<!--Notes
-- Launched December 2015 by the Mozilla VR team
-- Make it easy for anyone to create VR content
-- Enable web developers
-- Prototype and experiment faster
-- Kickstart WebVR ecosystem
 -->
 
 ---
@@ -269,15 +283,6 @@ A web framework for building virtual reality experiences with HTML
 -->
 
 ---
-
-## Room Scale
-
-<!-- .slide: data-background-video="media/video/roomscale.mp4" -->
-
-<!--Notes
--->
-
-------
 
 ## Languages & Tools We Know
 
@@ -340,28 +345,6 @@ scene.appendChild(sphere);
 -->
 
 ---
-
-## With MagicaVoxel
-
-<img data-src="media/img/magicavoxel.png">
-
-<!--Notes
-- Can create scenes with MagicaVoxel
-- Super easy tool, drop blocks like Minecraft
-- Then export to A-Frame
--->
-
----
-
-## With MagicaVoxel
-
-<div data-aframe-scene="scenes/magicavoxel.html"></div>
-
-<!--Notes
-- Open the A-Frame Inspector with `<ctrl> + <alt> + i`
--->
-
-------
 
 # Entity-Component-System
 
@@ -522,9 +505,10 @@ AFRAME.registerComponent('crazy-position', {
 
 # Community
 
-- **Github**: 60 contributors, 2800 stargazers
-- **Slack**: 1300 members
+- **Github**: 60+ contributors, 2900+ stargazers
+- **Slack**: 1400+ members
 - **Content**: Hundreds of projects featured on `awesome-aframe` repository and *A Week of A-Frame*
+- **StackOverflow**: Community is very active on StackOverflow also
 
 <!--Notes
 -->
@@ -547,7 +531,7 @@ AFRAME.registerComponent('crazy-position', {
 
 ## Scenes by Organizations
 
-- [360syria.com](https://360syria.com) (Amnesty International UK)
+- [360syria.com](http://360syria.com) (Amnesty International UK)
 - [apps.npr.org/rockymountain-vr](http://apps.npr.org/rockymountain-vr/)
 - [gurivr.com](https://gurivr.com/) (The Coral Project)
 - [washingtonpost.com/graphics/business/mars-journey](https://www.washingtonpost.com/graphics/business/mars-journey/)
@@ -574,10 +558,10 @@ AFRAME.registerComponent('crazy-position', {
 
 # Questions?  <!-- .element: style="color: #FFF" -->
 
-- Try it out [aframe.io](https://aframe.io)
-- Twitter : Ram [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
+- Twitter : Ram | [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
 
-- Twitter : AFrame [@aframevr](https://twitter.com/aframevr)
+- Try it out [aframe.io](https://aframe.io)
+- Twitter : AFrame | [@aframevr](https://twitter.com/aframevr)
 - Join AFrame on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
 
 <!--Notes
