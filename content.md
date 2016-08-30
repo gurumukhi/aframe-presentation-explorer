@@ -5,7 +5,7 @@
   <h2>Building VR on the Web</h2>
 </div>
 
-@you / 01 January 2016 / San Francisco, CA  <!-- .element: class="talk-info" -->
+Ram / [X]plorer / Arcesium  <!-- .element: class="talk-info" -->
 
 ------
 
