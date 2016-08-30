@@ -140,7 +140,8 @@ https://w3c.github.io/webvr/
     <i>Mobile Polyfill</i>
   </div>
 </div>
-https://mozvr.com/
+https://mozvr.com/ 
+<br/>
 http://vr.chromeexperiments.com/
 
 <!--Notes
@@ -559,7 +560,7 @@ AFRAME.registerComponent('crazy-position', {
 # Questions?  <!-- .element: style="color: #FFF" -->
 
 - Twitter : Ram | [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
-
+<br/>
 - Try it out [aframe.io](https://aframe.io)
 - Twitter : AFrame | [@aframevr](https://twitter.com/aframevr)
 - Join AFrame on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
