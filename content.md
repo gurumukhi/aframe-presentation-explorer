@@ -555,7 +555,7 @@ AFRAME.registerComponent('crazy-position', {
 
 ------
 
-<!-- .slide: class="slide__questions" data-background="" style="" -->
+<!-- .slide: class="slide__questionsx" data-background="" style="" -->
 
 # Thanks !  <!-- .element: style="" -->
 
