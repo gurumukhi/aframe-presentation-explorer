@@ -560,11 +560,12 @@ AFRAME.registerComponent('crazy-position', {
 # Thanks !  <!-- .element: style="" -->
 
 - Twitter : Ram | [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
-<br/>
+<br/><br/>
 - Try it out [aframe.io](https://aframe.io)
 - Twitter : AFrame | [@aframevr](https://twitter.com/aframevr)
 - Join AFrame on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
-
+<br/><br/>
+- Demo links : [gurumukhi.github.io](http://gurumukhi.github.io)
 <!--Notes
 - Homepage which has examples, documentation, blog
 - Slack extremely active, core team responsive, over 1300 people
