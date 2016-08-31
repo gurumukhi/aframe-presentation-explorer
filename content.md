@@ -575,4 +575,3 @@ AFRAME.registerComponent('crazy-position', {
 
 - Links : [gurumukhi.github.io](http://gurumukhi.github.io)
 
-------
