@@ -579,8 +579,5 @@ AFRAME.registerComponent('crazy-position', {
 <br/><br/>
 - Twitter : Ram | [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
 - Demo links : [gurumukhi.github.io](http://gurumukhi.github.io)
-<!--Notes
-- Homepage which has examples, documentation, blog
-- Slack extremely active, core team responsive, over 1300 people
-- Keep up to date by following on Twitter
--->
+
+------
