@@ -1,6 +1,6 @@
 # A-Frame / WebVR Presentation
 
-A-Frame for building WebVR website : [VIEW SLIDES](https://gurumukhi.github.io/aframe-presentation-explorer/)
+A-Frame for building WebVR website : [View Slides](https://gurumukhi.github.io/aframe-presentation-explorer/)
 
 ## Table of Contents
 
@@ -13,13 +13,12 @@ A-Frame for building WebVR website : [VIEW SLIDES](https://gurumukhi.github.io/a
   - API
   - Browser Support
   - The Web is Ready for VR
-  - Metaverse
   - Barrier to Entry
 - A-Frame
   - Introduction
-  - Hello World
-  - Multiuser Demo
-- Entity-Component-System
+  - Hello World 
+  - Support of tools languages & tools
+  - Entity-Component-System
   - Concept
   - Composing an Entity
   - Structure of a Component
@@ -27,7 +26,7 @@ A-Frame for building WebVR website : [VIEW SLIDES](https://gurumukhi.github.io/a
   - Community
   - Components
   - Scenes
-- Conclusion
+- Links
 
 
 ## Presenting
