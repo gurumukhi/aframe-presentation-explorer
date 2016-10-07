@@ -562,6 +562,7 @@ AFRAME.registerComponent('crazy-position', {
 - Try it out [aframe.io](https://aframe.io)
 - Twitter : AFrame | [@aframevr](https://twitter.com/aframevr)
 - Join AFrame on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
+
 <br/><br/>
 <!--Notes
 - Homepage which has examples, documentation, blog
@@ -576,3 +577,4 @@ AFRAME.registerComponent('crazy-position', {
 - Demo : [gurumukhi.github.io/vr-ram/](https://gurumukhi.github.io/vr-ram/)
 - Telegram : [WebVR India : telegram.me/WebVRIndia](https://telegram.me/WebVRIndia)
 - Telegram : [Mozilla VR : telegram.me/MozillaVR](https://telegram.me/MozillaVR)
+- Tweet With : #WebVRCamp, @aframevr, @mozillavr, @ram_gurumukhi
