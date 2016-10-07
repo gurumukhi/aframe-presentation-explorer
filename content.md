@@ -5,7 +5,7 @@
   <h2>Building VR on the Web</h2>
 </div>
 
-Ram / [X]plorer / Arcesium  <!-- .element: class="talk-info" -->
+Ram / Hyderabad, India  <!-- .element: class="talk-info" -->
 
 ------
 
