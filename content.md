@@ -5,7 +5,7 @@
   <h2>Building VR on the Web</h2>
 </div>
 
-Ram / Hyderabad, India  <!-- .element: class="talk-info" -->
+WebVR India  <!-- .element: class="talk-info" -->
 
 ------
 
@@ -571,7 +571,8 @@ AFRAME.registerComponent('crazy-position', {
 
 ------
 
-# Demo
+# Links
 
-- Links : [gurumukhi.github.io](http://gurumukhi.github.io)
-
+- Demo : [gurumukhi.github.io/vr-ram/](https://gurumukhi.github.io/vr-ram/)
+- Telegram : [WebVR India : telegram.me/WebVRIndia](https://telegram.me/WebVRIndia)
+- Telegram : [Mozilla VR : telegram.me/MozillaVR](https://telegram.me/MozillaVR)
