@@ -44,3 +44,5 @@ Open up a scene in the A-Frame Inspector by pressing `<ctrl> + <alt> + i` on
 your keyboard. This will open up an embedded A-Frame scene in a visual tool.
 
 Check out these [public speaking guide](http://speaking.io/) and good luck!
+
+* Other related presentations - http://cyee.io/webvr-mozaloha/
